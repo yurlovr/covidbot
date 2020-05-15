@@ -1,0 +1,1 @@
+module.exports = TIMER_MAIN = 10000
